@@ -1,0 +1,20 @@
+{
+	"name": "typescript-skeleton",
+	"version": "1.0.0",
+	"description": "Skeleton for vanilla TypeScript project",
+	"main": "app.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "lite-server"
+	},
+	"keywords": [
+		"TypeScript",
+		"HTML",
+		"CSS"
+	],
+	"author": "Austin Spinazze",
+	"license": "ISC",
+	"devDependencies": {
+		"lite-server": "^2.6.1"
+	}
+}
